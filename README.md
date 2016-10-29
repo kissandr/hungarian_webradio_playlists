@@ -1,7 +1,6 @@
-#Hungarian webradio playlist for RuneAudio - Magyar webrádiók a RuneAudio lejátszóhoz
+#Hungarian webradio playlist for RuneAudio
 
-#Usage
-- Pick a hardware and install RuneAudio in it from http://www.runeaudio.com 
+- Pick a Raspberry PI or other compatible hardware, plug an USB sound card in it and install RuneAudio from http://www.runeaudio.com 
 ```
 git clone https://github.com/kissandr/runeaudio_hungarian_webradios.git
 scp -r runeaudio_hungarian_webradios/mnt root@runeaudioIP:/
