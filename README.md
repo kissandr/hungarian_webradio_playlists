@@ -2,7 +2,7 @@
 
 - Pick a Raspberry PI or other compatible hardware, plug an USB sound card in it and install RuneAudio from http://www.runeaudio.com 
 ```
-https://github.com/kissandr/hungarian_webradio_playlists.git
+git clone https://github.com/kissandr/hungarian_webradio_playlists.git
 scp -r runeaudio_hungarian_webradios/mnt root@runeaudioIP:/
 ```
 - where runeaudioIP is your player's local IP address. Default password is rune
